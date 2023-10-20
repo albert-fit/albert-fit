@@ -31,5 +31,5 @@ You'll find a mix of projects, from geospatial data analysis and visualization t
 Let's code the future together! 🚀✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/J5B1YrgPtMMJ3R7OAF/giphy.gif" alt="Coding is Fun" width="400">
+  <img src="https://media.giphy.com/media/xEQZZb6HinxHSUtCwl/giphy.gif" alt="Coding is Fun" width="400">
 </div>
