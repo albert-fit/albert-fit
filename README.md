@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://2.gravatar.com/avatar/c614ffdbaac618fc9b3820a751648fb4f866fa5fa1f8c322ad8da5601e0778c2?size=128" alt="Albert Fit" width="200" height="200">
+  <img src="IMG_1713 2.jpeg" alt="Albert Fit" width="200" height="200">
 </div>
 
 # 👋 Hey, I'm Albert!
