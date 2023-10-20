@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://albert-fit.com/wp-content/uploads/2023/10/cropped-Small.webp" alt="Albert Fit" width="200" height="200">
+  <img src="https://albert-fit.com/wp-content/uploads/2023/10/Small.webp" alt="Albert Fit" width="200" height="200">
 </div>
 
 # 👋 Hey, I'm Albert!
