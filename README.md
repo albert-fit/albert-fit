@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="IMG_1713 2.jpeg" alt="Albert Fit" width="200" height="200">
-</div>
 
 # 👋 Hey, I'm Albert!
 
