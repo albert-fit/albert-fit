@@ -5,7 +5,7 @@
 
 Welcome to my GitHub playground! I'm on a journey through the exciting world of geospatial and machine learning engineering. 🌍✨ I believe in the power of data and code to make our world a better place, and I'm here to share my passion and discoveries with you.
 
-![Geospatial Magic](https://media.giphy.com/media/xEQZZb6HinxHSUtCwl/giphy.gif)
+
 
 ## 🚀 What I'm Passionate About
 
