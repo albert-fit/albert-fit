@@ -8,12 +8,14 @@ Welcome to my GitHub playground! I'm on a journey through the exciting world of 
 
 
 ## 🚀 What I'm Passionate About
-
-- 🐍 Python: I'm in a committed relationship with Python. From data wrangling to machine learning, I am developing my undesrtanding of Python and the countless amazing packages developed by the community.
+- 🐍 Python & ML: I am currently learning about machine learning in Python and am taking great pleasure in learning about various neural networks concepts. Have recently attended a day of Arena 2.0 training which has sparked my interest in Generative Pre-trained Transformers.
 - ⚛️ React.js: Building beautiful and interactive web applications with React is my jam. I love crafting user experiences that delight. I am currently developing the [site-portal](https://www.site-portal.co.uk) geospatial platform for exploring drone photos and point clouds.
-- 🚀 Node.js: The backend is just as exciting! I enjoy working with Node.js to create robust server-side applications. 
-- 🌐 Three.js: I dabble in 3D web graphics with Three.js. Bringing data to life in 3D is pure magic.
-- 🍃 MongoDB: NoSQL databases like MongoDB are my go-to for handling geospatial data. They make it feel like a breeze. I am a MongoDB certified developer.
+- 🚀 Node: The backend is just as exciting! I enjoy working with Node.js to create robust server-side applications.
+- 🦁 NestJs: Recently adopted Nest as a way to design better documented and more stable REST APIs.
+- 🍃 MongoDB: I am an certified associate MongoDB developer and enjoy crafting efficient queries that can be used to get the right amount of data with the least latency.
+- 🐘 PostreSQL: I am currently studying implementation of PostregSQL with TypeORM in NestJS.
+- ☁️ Cloud (AWS and GCP): I love the idea that we can develop apps that can be deployed without building and running a datacenter. Am currently working towards the Cloud Practitioner certification in AWS.
+- #️⃣ Terraform: Infrastructure as Code is something that I am passionate about because it enables me to define and deploy resources programatically. 
 
 ## 🌟 What's in My GitHub Repository?
 
